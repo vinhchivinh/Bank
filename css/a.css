@@ -1,0 +1,229 @@
+#full-size {
+    height:100%;
+    width:100%;
+    position:absolute;
+    top:0;
+    left:0;
+    overflow:hidden;}
+.row {
+     margin-left: 0;
+     margin-top: 0; 
+     width: 100%;
+}
+
+.nav-a {
+    background-color:forestgreen;
+    color:white;
+    border-right: 1px solid white;
+    border-left:1px solid white;
+}
+.nav {
+    margin-left: 30%;
+}
+.color{
+    background-color: forestgreen;
+}
+.content {
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.frame{
+    margin-right: 10%;
+    margin-left: 10%;
+}
+.title{
+    color:white;
+    background-color: forestgreen;
+}
+a {
+    color: black;
+}
+a:hover {
+    color: blue;
+    size: 15px;
+    background-color:gray;
+}
+.content-right{
+   
+    border: 1px solid forestgreen;
+}
+.content-right h3{
+    background-color: forestgreen;
+    color: white;
+    text-align: center;
+}
+.tb{
+    margin-top:20px ;
+    margin-left: 5%;
+    margin-bottom: 10%;
+}
+.tb th {
+    background-color: forestgreen;
+    width: 200px;
+    text-align: center;
+}
+.tb td {
+    text-align: center;
+}
+.tb-chuyentien{
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: 10%;
+    
+}
+.tb-chuyentien td:first-child{
+    text-align: right;
+    width: 200px;
+    vertical-align:top;
+    padding-right: 10px;
+    
+
+}
+.tb-chuyentien1,.tb-chuyentien2,.tb-chuyentien3{
+    border:1px solid black;
+    background-color:#FFFFFF rgb(255,255,255);
+    border-radius: 10px;
+    margin-top: 5%;
+  
+    
+}
+.tb-chuyentien1,.tb-chuyentien2,.tb-chuyentien3 h4{
+    color:#006400;
+
+}
+.tb-chuyentien table {
+    margin-left: 7%;
+    margin-bottom: 2%;
+}
+.tb-chuyentien .btn{
+    margin-top: 15px;
+    background-color:#006400 ;
+}
+#btn1{
+    margin-left: 70%;
+}
+.doimatkhau{
+    border:5px solid black;
+
+}
+.doimatkhau h3 {
+    background-color: #006400;
+    text-align:center;
+    color:white;
+}
+.doimatkhau td:first-child{
+    text-align: right;
+    color:black;
+    padding-right:2%;
+    width: 200px;
+    font-weight:400;
+}
+.doimatkhau table{
+    margin-left:25%;
+}
+.doimatkhau td {
+    padding-bottom:10px;
+    
+}
+.button-mk{
+    padding-left: 60%;
+}
+.motietkiem td:first-child{
+    text-align: right;
+    color:black;
+    padding-right:2%;
+    width: 200px;
+    font-weight:400;
+}
+.motietkiem {
+    border: 1px solid black;
+}
+.motietkiem h3 {
+    background-color: #006400;
+    text-align: center;
+    color:white;
+}
+.tkm,.tttkm {
+    border: 1px solid black;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-bottom: 30px;
+    border-radius: 10px;
+}
+
+.motietkiem table {
+    margin-left: 10%;
+    margin-bottom:10%;
+}
+.motietkiem table td {
+    width:300px;
+}
+input[type="text"],select{
+    width: 300px;
+
+}
+.giaodich{
+    border:1px solid black;
+}
+.giaodich h3{
+    border:1px solid black;
+    background-color: #006400;
+    color:white;
+    text-align:center;
+}
+.ctgd {
+    margin-left:30%;
+}
+.ctgd td:first-child{
+    text-align: right;
+    width:200px;
+    padding-right: 10px;
+
+}
+.giaodich table{
+    margin-top:5%;
+    margin-bottom:10%;
+}
+.thongtincanhan img {
+    height: 150px;
+    width: 150px;
+    margin-left:30%;
+}
+.thongtincanhan table {
+    margin-left:30%;
+}
+.thongtincanhan h3 {
+    background-color: #006400;
+    color:white;
+    text-align:center;
+}
+.thongtinchitietTk{
+    border:1px solid black;
+
+}
+.thongtinchitietTk h3{
+    background-color: #006400;
+    color:white;
+    text-align:center;
+}
+.thongtinchitietTk table{
+   margin-left:30%;
+   margin-bottom: 10%;
+}
+.thongtinchitietTk th {
+    text-align: right;
+    padding-right:10px;
+}
+.thongtincanhan {
+    border:1px solid black;
+    padding-bottom:5%;
+}
+.giaodich td
+{
+    width:200px;
+}
+.ttctTietKiem{
+    border:1px solid black;
+    margin: 1% 5% 5% 5%;
+    background-color: #DDDDDD;
+}

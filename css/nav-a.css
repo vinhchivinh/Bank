@@ -1,0 +1,27 @@
+.nav-a {
+    background-color:forestgreen;
+    color:white;
+    border-right: 1px solid white;
+    border-left:1px solid white;
+}
+.nav {
+    margin-left: 30%;
+}
+.color{
+    background-color: forestgreen;
+}
+.content {
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.frame{
+    margin-right: 10%;
+    margin-left: 10%;
+}
+.title{
+    color:white;
+    background-color: forestgreen;
+}
+a {
+    color: black;
+}
